@@ -3,7 +3,9 @@
 ● 게임 스크린샷 / 플레이 영상<br>
 
 <img width="1920" alt="111" src="https://github.com/sangwook1210/IdleGame_Unity/assets/112921582/88c4be44-31f5-402c-955d-aaa37f55d671">
-https://youtu.be/Z2fps6O5eLw <br>
+https://youtu.be/Z2fps6O5eLw 
+
+<br>
 
 ● 게임 소개<br>
 적을 죽여 돈을 벌고 이를 이용하여 캐릭터를 강화하여 더 강한 적을 죽이는 방치형 게임
